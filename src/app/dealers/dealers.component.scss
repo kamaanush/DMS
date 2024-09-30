@@ -374,9 +374,10 @@ bottom: 0px;
   border: none;
   background: rgba(104, 110, 116, 0.66);
     border-radius: 13%;
-  position: relative;
+  // position: relative;
+  // position: absolute;
   width: 40px;
-  margin-left: 280px;
+  // margin-left: 280px;
   height: 40px;
 }
 
@@ -531,8 +532,8 @@ bottom: 0px;
   width: 40px;
   height: 40px;
   top: 87px;
-  margin-right: 10px;
-  margin-left: 636%;
+  // margin-right: 10px;
+  // margin-left: 636%;
   // position: absolute;
   // left: 169%;
 }
@@ -547,7 +548,7 @@ bottom: 0px;
   position: relative;
   width: 40px;
   height: 40px;
-  margin-left: 550%;
+  // margin-left: 550%;
   // top: 87px;
   // left: 192%;
 }
@@ -1217,14 +1218,15 @@ display: block;
 
 .searchBox {
 
-  float: right;
+  // float: right;
 
-  position: absolute;
+  // position: absolute;
 
-  right: 465px;
+  // right: 465px;
 
-  top: 20px;
-
+  // top: 20px;
+  top: 5px;
+  position:relative ;
 }
 
  
@@ -1250,7 +1252,8 @@ display: block;
 
   background: none;
 
-  position: relative;
+  // position: relative;
+  position: absolute;
 
   right: 182px;
 
